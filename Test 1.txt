@@ -1,2 +1,2 @@
 This is my first project in Github. 
-This file is ctreated for practicing cloning the file  from local computer to the website.
+This file is ctreated for practicing cloning the file from local computer to the website.
